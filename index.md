@@ -25,10 +25,7 @@ eventbrite: "254271893077"         # optional: alphanumeric key for Eventbrite r
 {% comment %}
 HEADER
 
-Edit the values in the block above to be appropriate for your workshop.
-If the value is not 'true', 'false', 'null', or a number, please use
-double quotation marks around the value, unless specified otherwise.
-And run 'make workshop-check' *before* committing to make sure that changes are good.
+This is a pull request test
 {% endcomment %}
 
 
